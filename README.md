@@ -55,4 +55,4 @@
 - NavLink
   - 현재 경로와 Link에서 사용하는 경로가 일치하는 경우 특정 스타일 혹은 CSS 클래슬르 적용할 수 있는 컴포넌트.
   - 링크 활성화 시 , acticeStyle 값을 넣어준다
-  - CSS 클래스를 적용할 때는 acticeClassName 값을 props로 넣어준다.
+  - CSS 클래스를 적용할 때는 acticeClassName 값을 props로 넣어준다. 
